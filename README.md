@@ -48,13 +48,14 @@
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=poygeee&repo=performance-data&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=poygeee&repo=fm4se-lab&theme=buefy" />
-</a>
-
+<div align="center">
+  <a href="https://github.com/poygeee/performance-data">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=poygeee&repo=performance-data&theme=buefy" />
+  </a>
+  <a href="https://github.com/poygeee/fm4se-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=poygeee&repo=fm4se-lab&theme=buefy" />
+  </a>
+</div>
 ---
 
 ### ☕ Let's Connect

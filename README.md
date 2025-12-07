@@ -39,8 +39,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poygeee&show_icons=true&theme=radical" alt="poygeee's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=poygeee&theme=radical&hide_border=true" width="400"/>
+  <img 
+    src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=poygeee&show_icons=true&theme=radical" 
+    alt="poygeee's GitHub stats" 
+    width="400"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=poygeee&theme=radical&hide_border=true" 
+    width="400"
+  />
 </p>
 
 ---
